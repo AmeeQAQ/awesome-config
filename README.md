@@ -1,5 +1,5 @@
 # My Awesome WM setup
-Repo to upload the config files used in my Awesome WM setup that I use. 
+Repo to upload the config files used in my Awesome WM setup. 
 
 It features VIM-like keybinds for workspace traversal, as well as client selection, that work really well with my minimal split keyboard, a pleasing color palette inspired by [Catppuccin](https://catppuccin.com/) and retrowave, and a modern floating wibar setup that I think looks really great.
 
