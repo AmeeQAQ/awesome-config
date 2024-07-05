@@ -1,3 +1,4 @@
+local home = require("widgets.home-dir")
 -- Standard awesome library
 local gears = require("gears")
 local awful = require("awful")
@@ -17,7 +18,7 @@ powermenu = awful.menu({items = {
 				}
 			})
 
-powerbutton = awful.widget.launcher({ image = gears.surface.load_uncached("/home/ame/.config/awesome/resources/power-button.png"),
+powerbutton = awful.widget.launcher({ image = gears.surface.load_uncached(home .. "/.config/awesome/resources/power-button.png"),
 				      menu  = powermenu})
 
 return powerbutton
