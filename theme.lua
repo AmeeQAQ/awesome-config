@@ -15,8 +15,6 @@ local theme = {}
 
 theme.font          = "Inter Nerd Font Propo SemiBold 10"
 
-theme.wibar_border_color = "#ffffff"
-
 theme.bg_normal     = "#0e0022"
 theme.bg_focus      = "#be03fc40"
 theme.bg_urgent     = "#ff0000"
