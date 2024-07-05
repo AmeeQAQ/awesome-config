@@ -19,3 +19,4 @@ In the third screenshot I'm using [ncspot](https://github.com/hrkfdn/ncspot) as 
 - [Picom](https://github.com/yshui/picom) as the compositor.
 - [Flameshot](https://flameshot.org/) as the screenshotting tool.
 - [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire) with the PulseAudio plugin for audio control.
+- [Rofi](https://github.com/davatorium/rofi) as the app launcher.
